@@ -1,5 +1,3 @@
-Here's a simple README for your code:
-
 ---
 
 # Buffalo Burger Order System
@@ -64,5 +62,3 @@ Thanks for ordering from Buffalo Burger. Your order will be delivered in 25 minu
 - Python 3.x
 
 ---
-
-Let me know if you'd like any adjustments!
